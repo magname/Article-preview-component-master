@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://magname.github.io/Article-preview-component-master/)
+- Live Site URL: [https://magname.github.io/Article-preview-component-master/](https://magname.github.io/Article-preview-component-master/)
 
 ## My process
 
